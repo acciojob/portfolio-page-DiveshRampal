@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+body{background-color: #f4f4f9;
+	 font-family: Arial, sans-serif;
+	 padding: 10px;
+		margin: 0;}
+header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+ #skills, #projects {
+            margin-top: 20px;
+	 
+        }
+h2{
+	text-decoration-line:underline;
+}
